@@ -1,0 +1,12 @@
+[
+    {
+        "forUrl": "https://www.google.com/",
+        "id": "0",
+        "displayName": "google",
+        "version": {
+            "versionTag": "tag",
+            "versionId": "1"
+        },
+        "icon": "icon"
+    }
+]
