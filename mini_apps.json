@@ -1,12 +1,11 @@
 [
     {
-        "forUrl": "https://www.google.com/",
         "id": "0",
-        "displayName": "google",
+        "displayName": "DemoMiniApp1",
         "version": {
             "versionTag": "tag",
             "versionId": "1"
         },
-        "icon": "icon"
+        "icon": "http://10.0.2.2:3000/favicon.ico"
     }
 ]

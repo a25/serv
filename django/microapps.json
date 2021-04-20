@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "name": "Pay Bills",
+        "description": "Pay Bills",
+        "type": "web",
+        "category": "finance",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "startTime": "0",
+        "endTime": "0",
+        "icon": "https://img.icons8.com/cotton/64/000000/pay.png",
+        "source": "https://www.infosys.com/"
+    },
+    {
+        "id": 1,
+        "name": "Payment App",
+        "description": "Scan & Pay",
+        "type": "web",
+        "category": "finance",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "startTime": "0",
+        "endTime": "0",
+        "icon": "https://img.icons8.com/wired/64/000000/mobile-payment.png",
+        "source": "https://www.infosys.com/"
+    },
+    {
+        "id": 2,
+        "name": "Food Delivery",
+        "description": "Order Food",
+        "type": "web",
+        "category": "food",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "startTime":"0",
+        "endTime": "0",
+        "icon": "https://img.icons8.com/bubbles/50/000000/restaurant.png",
+        "source": "https://www.infosys.com/"
+    },
+    {
+        "id": 3,
+        "name": "Food Delivery",
+        "description": "Order Food",
+        "type": "web",
+        "category": "food",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "startTime":"0",
+        "endTime": "0",
+        "icon": "https://img.icons8.com/bubbles/50/000000/restaurant.png",
+        "source": "https://www.infosys.com/"
+    }
+]

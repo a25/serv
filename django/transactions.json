@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "transactor": "User 10",
+        "amount": "21212",
+        "time": "04/01/2021 16:39:11",
+        "type": 1
+    },
+    {
+        "id": 1,
+        "transactor": "Food App",
+        "amount": "876",
+        "time": "04/01/2021 16:39:11",
+        "type": 1
+    },
+    {
+        "id": 2,
+        "transactor": "Payment App",
+        "amount": "768",
+        "time": "03/01/2021 08:34:21",
+        "type": 0
+    }
+]
